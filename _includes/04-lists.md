@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* animal:dog::cat:
+* human
+  * man:man:
+  * woman:woman:
